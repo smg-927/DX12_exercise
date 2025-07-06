@@ -24,6 +24,15 @@
     <ClInclude Include="Solution\Chap1\Prob01_03.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Solution\Chap2\Practice.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution\Chap2\Prob02_18.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution\Chap2\Prob02_19.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Solution\Chap1\Prob01_01.cpp">
@@ -36,6 +45,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Solution\Chap1\Prob01_03.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution\Chap2\Practice.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution\Chap2\Prob02_18.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution\Chap2\Prob02_19.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

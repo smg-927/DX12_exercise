@@ -126,12 +126,18 @@
     <ClInclude Include="Solution\Chap1\Prob01_01.h" />
     <ClInclude Include="Solution\Chap1\Prob01_02.h" />
     <ClInclude Include="Solution\Chap1\Prob01_03.h" />
+    <ClInclude Include="Solution\Chap2\Practice.h" />
+    <ClInclude Include="Solution\Chap2\Prob02_18.h" />
+    <ClInclude Include="Solution\Chap2\Prob02_19.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Solution\Chap1\Prob01_01.cpp" />
     <ClCompile Include="Solution\Chap1\Prob01_02.cpp" />
     <ClCompile Include="Solution\Chap1\Prob01_03.cpp" />
+    <ClCompile Include="Solution\Chap2\Practice.cpp" />
+    <ClCompile Include="Solution\Chap2\Prob02_18.cpp" />
+    <ClCompile Include="Solution\Chap2\Prob02_19.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
